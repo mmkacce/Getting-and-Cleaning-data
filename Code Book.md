@@ -2,7 +2,7 @@ Code Book
 
 Data fields of tidy_mmkacce.txt.
 
-subject - The ID of the test subject
+subject - The ID of the test subject,
 activity - The type of activity performed when the corresponding measurements were taken
 
 Variables: 
